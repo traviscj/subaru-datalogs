@@ -1,0 +1,9 @@
+# COBB/proprietary tune & map files
+*.ptm
+*.ptmx
+*.bin
+*.hex
+*.srf
+# unscrubbed originals
+.orig/
+.DS_Store
